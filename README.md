@@ -9,6 +9,7 @@ Gemaakt door [MaasISO](https://www.maasiso.nl/): uitgever van compliance-documen
 | --- | --- | --- | --- |
 | [NIS2-checklist Cyberbeveiligingswet](nis2-checklist/) | Cyberbeveiligingswet | 46 punten | [uitleg](https://www.maasiso.nl/gratis-tools/nis2-checklist/) |
 | [Register bestuurderstraining Cyberbeveiligingswet](register-bestuurderstraining/) | Cyberbeveiligingswet | register, 14 kolommen | [uitleg](https://www.maasiso.nl/gratis-tools/register-bestuurderstraining/) |
+| [Verklaring van toepasselijkheid ISO 27001](verklaring-van-toepasselijkheid-iso-27001/) | ISO 27001 | verklaring, 93 maatregelen | [uitleg](https://www.maasiso.nl/gratis-tools/verklaring-van-toepasselijkheid-iso-27001/) |
 | [Verplichte documenten ISO 27001](verplichte-documenten-iso-27001/) | ISO 27001 | 21 punten | [uitleg](https://www.maasiso.nl/gratis-tools/verplichte-documenten-iso-27001/) |
 | [Verplichte documenten ISO 9001](verplichte-documenten-iso-9001/) | ISO 9001 | 18 punten | [uitleg](https://www.maasiso.nl/gratis-tools/verplichte-documenten-iso-9001/) |
 
@@ -27,7 +28,8 @@ de sjablonen zelf zijn volledig bruikbaar zonder toolkit.
 delen, ook commercieel, zolang u MaasISO vermeldt met een link naar https://www.maasiso.nl/gratis-tools/.
 
 Wetteksten (Cyberbeveiligingswet, Cyberbeveiligingsbesluit) zijn vrij van auteursrecht. Normeisen van ISO 27001 en ISO 9001
-staan in eigen woorden; de normen zelf zijn auteursrechtelijk beschermd en te koop bij NEN.
+staan in eigen woorden; de normen zelf zijn auteursrechtelijk beschermd en te koop bij NEN. Uitgezonderd van CC BY zijn de
+officiële titels van de beheersmaatregelen in de verklaring van toepasselijkheid: die komen uit NEN-EN-ISO/IEC 27001:2023 (© NEN).
 
 ## Geen juridisch advies
 
