@@ -9,8 +9,9 @@ Gemaakt door [MaasISO](https://www.maasiso.nl/): uitgever van compliance-documen
 | --- | --- | --- | --- |
 | [NIS2-checklist Cyberbeveiligingswet](nis2-checklist/) | Cyberbeveiligingswet | 46 punten | [uitleg](https://www.maasiso.nl/gratis-tools/nis2-checklist/) |
 | [Register bestuurderstraining Cyberbeveiligingswet](register-bestuurderstraining/) | Cyberbeveiligingswet | register, 14 kolommen | [uitleg](https://www.maasiso.nl/gratis-tools/register-bestuurderstraining/) |
+| [Risicoanalyse ISO 27001](risicoanalyse-iso-27001/) | ISO 27001 | risicoregister, 18 kolommen | [uitleg](https://www.maasiso.nl/gratis-tools/risicoanalyse-iso-27001/) |
 | [Verklaring van toepasselijkheid ISO 27001](verklaring-van-toepasselijkheid-iso-27001/) | ISO 27001 | verklaring, 93 maatregelen | [uitleg](https://www.maasiso.nl/gratis-tools/verklaring-van-toepasselijkheid-iso-27001/) |
-| [Verplichte documenten ISO 27001](verplichte-documenten-iso-27001/) | ISO 27001 | 21 punten | [uitleg](https://www.maasiso.nl/gratis-tools/verplichte-documenten-iso-27001/) |
+| [Verplichte documenten ISO 27001](verplichte-documenten-iso-27001/) | ISO 27001 | 37 punten | [uitleg](https://www.maasiso.nl/gratis-tools/verplichte-documenten-iso-27001/) |
 | [Verplichte documenten ISO 9001](verplichte-documenten-iso-9001/) | ISO 9001 | 18 punten | [uitleg](https://www.maasiso.nl/gratis-tools/verplichte-documenten-iso-9001/) |
 
 ## Gebruik

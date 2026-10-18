@@ -1,10 +1,10 @@
 # Verplichte documenten ISO 27001
 
-Alle documenten en registraties die ISO/IEC 27001:2022 als gedocumenteerde informatie vraagt, in 21 controleerbare punten, met de clausule of beheersmaatregel bij elk punt.
+Alle documenten en registraties die ISO/IEC 27001:2022 als gedocumenteerde informatie vraagt, in 37 controleerbare punten, met de clausule of beheersmaatregel bij elk punt.
 
 - **Excel:** [maasiso-verplichte-documenten-iso-27001.xlsx](maasiso-verplichte-documenten-iso-27001.xlsx)
 - **Uitleg en toelichting:** https://www.maasiso.nl/gratis-tools/verplichte-documenten-iso-27001/
-- **Versie:** 1.0, 16 oktober 2026
+- **Versie:** 1.1, 16 oktober 2026
 - **Licentie:** [CC BY 4.0](../LICENSE): vrij te gebruiken, aan te passen en te delen, ook commercieel, met vermelding van MaasISO en een link naar de pagina hierboven.
 
 ## V. Verplicht vanuit de clausules (4 tot en met 10)
@@ -18,14 +18,14 @@ Alle documenten en registraties die ISO/IEC 27001:2022 als gedocumenteerde infor
 | V5 | De verklaring van toepasselijkheid: welke beheersmaatregelen nodig zijn, waarom, of ze zijn ingevoerd, en waarom maatregelen uit Annex A zijn uitgesloten. | 6.1.3 d | ISB-001 Verklaring van toepasselijkheid |
 | V6 | De doelstellingen voor informatiebeveiliging. | 6.2 | DST-002 Doelstellingen informatiebeveiliging |
 | V7 | Bewijs dat de mensen die werk doen dat de informatiebeveiliging raakt, daarvoor bekwaam zijn. | 7.2 d | CMP-001 Competenties, training en bewustzijn |
-| V8 | De documenten die de organisatie zelf nodig vindt voor een doeltreffend ISMS, beheerd volgens vaste regels (versie, goedkeuring, bewaren). | 7.5.1 b, 7.5.2, 7.5.3 | REG-001 Documentenregister; DOC-P01 Procedure documentbeheer |
+| V8 | De documenten die de organisatie zelf nodig vindt voor een doeltreffend ISMS, beheerd volgens vaste regels (versie, goedkeuring, bewaren). | 7.5.1 b, 7.5.2, 7.5.3 | REG-001 Documentenregister; DOC-P01 Procedure documentbeheer; BWT-001 Bewaartermijnen |
 | V9 | Voor zover nodig: informatie waaruit blijkt dat processen zijn uitgevoerd zoals gepland, ook processen die u uitbesteedt. | 8.1 | ISB-P05 Leveranciers en clouddiensten |
 | V10 | De resultaten van de risicobeoordelingen. | 8.2 | RSK-002 Risicoregister en behandelplan |
 | V11 | De resultaten van de risicobehandeling. | 8.3 | RSK-002 Risicoregister en behandelplan |
 | V12 | Bewijs van de resultaten van monitoring en meting. | 9.1 | KPI-001 Metingen en indicatoren |
-| V13 | Het auditprogramma en de resultaten van de interne audits. | 9.2.2 | AUD-P01 Procedure interne audit; T-AUD-001 Auditrapport |
-| V14 | De resultaten van de directiebeoordeling (management review). | 9.3.3 | DIR-P01 Procedure management review |
-| V15 | De afwijkingen, de genomen acties en de resultaten van corrigerende maatregelen. | 10.2 | AFW-P01 Procedure afwijkingen en verbetering; T-AFW-001 Formulier afwijking en verbetering |
+| V13 | Het auditprogramma en de resultaten van de interne audits. | 9.2.2 | AUD-P01 Procedure interne audit; AUD-002 Auditprogramma en dekking; T-AUD-001 Auditrapport |
+| V14 | De resultaten van de directiebeoordeling (management review). | 9.3.3 | DIR-P01 Procedure management review; T-DIR-001 Verslag management review |
+| V15 | De afwijkingen, de genomen acties en de resultaten van corrigerende maatregelen. | 10.2 | AFW-P01 Procedure afwijkingen en verbetering; AFW-001 Register afwijkingen en verbeteringen; T-AFW-001 Formulier afwijking en verbetering |
 
 ## A. Annex A: vastleggen als de beheersmaatregel van toepassing is
 
@@ -34,9 +34,25 @@ Alle documenten en registraties die ISO/IEC 27001:2022 als gedocumenteerde infor
 | A1 | Het informatiebeveiligingsbeleid en de beleidsregels per onderwerp, vastgesteld door het management en bekendgemaakt. | A.5.1 | BLD-002 Informatiebeveiligingsbeleid |
 | A2 | Een inventaris van informatie en andere bedrijfsmiddelen, met eigenaren. | A.5.9 | AST-001 Register bedrijfsmiddelen |
 | A3 | Regels voor het aanvaardbaar gebruik van informatie en bedrijfsmiddelen. | A.5.10 | GBR-001 Regels voor medewerkers |
-| A4 | De wettelijke, regelgevende en contractuele eisen die voor informatiebeveiliging gelden, en hoe u eraan voldoet. | A.5.31 | REG-002 Wet- en regelgeving en contracten |
-| A5 | Gedocumenteerde bedieningsprocedures voor de informatieverwerkende voorzieningen. | A.5.37 | DOC-P01 Procedure documentbeheer |
-| A6 | Geheimhoudingsafspraken die passen bij de behoeften van de organisatie, vastgelegd en ondertekend. | A.6.6 | T-GHV-001 Geheimhoudingsverklaring |
+| A4 | Procedures om informatie te labelen volgens uw classificatieschema. | A.5.13 | ISB-P06 Classificatie en uitwisseling van informatie |
+| A5 | Regels, procedures of afspraken voor het overdragen van informatie, binnen de organisatie en met anderen. | A.5.14 | ISB-P06 Classificatie en uitwisseling van informatie |
+| A6 | Regels voor fysieke en logische toegang tot informatie en systemen. | A.5.15 | ISB-P02 Toegangsbeheer |
+| A7 | Afspraken over het beheer van incidenten: processen, rollen en verantwoordelijkheden. | A.5.24 | ISB-P03 Incidenten melden en afhandelen |
+| A8 | Vastgelegde procedures om op incidenten te reageren, en de registratie van incidenten. | A.5.26 | ISB-P03 Incidenten melden en afhandelen; INC-001 Register incidenten en datalekken |
+| A9 | Procedures voor het verzamelen en bewaren van bewijs bij incidenten. | A.5.28 | ISB-P03 Incidenten melden en afhandelen |
+| A10 | Plannen voor continuïteit bij een verstoring, en bewijs dat ze zijn getest. | A.5.30 | ISB-P04 Bedrijfscontinuïteit; T-BCT-001 Verslag test of oefening continuïteit |
+| A11 | De wettelijke, regelgevende en contractuele eisen die voor informatiebeveiliging gelden, en hoe u eraan voldoet. | A.5.31 | REG-002 Wet- en regelgeving en contracten |
+| A12 | Gedocumenteerde bedieningsprocedures voor de informatieverwerkende voorzieningen. | A.5.37 | DOC-P01 Procedure documentbeheer; T-WIN-001 Sjabloon werkinstructie |
+| A13 | De verantwoordelijkheden voor informatiebeveiliging in de arbeidsovereenkomst. | A.6.2 | HRM-P01 Procedure HR-beveiliging |
+| A14 | Een formele en bekendgemaakte disciplinaire procedure bij overtreding van het beleid. | A.6.4 | HRM-P01 Procedure HR-beveiliging |
+| A15 | Geheimhoudingsafspraken die passen bij de behoeften van de organisatie, vastgelegd en ondertekend. | A.6.6 | T-GHV-001 Geheimhoudingsverklaring |
+| A16 | Regels voor een opgeruimd bureau en een vergrendeld scherm. | A.7.7 | GBR-001 Regels voor medewerkers |
+| A17 | Vastgelegde configuraties van hardware, software, diensten en netwerken, met de beveiligingsinstellingen. | A.8.9 | ISB-P14 Werkplekken, malware en kwetsbaarheden |
+| A18 | Een beleid voor back-ups en bewijs dat back-ups regelmatig worden getest. | A.8.13 | ISB-P11 Back-up en herstel; BEW-001 Bewijsregister periodieke controles |
+| A19 | Logbestanden van activiteiten en beveiligingsgebeurtenissen, bewaard en beschermd. | A.8.15 | ISB-P10 Logging en monitoring |
+| A20 | Regels voor het gebruik van cryptografie, inclusief het beheer van sleutels. | A.8.24 | ISB-P09 Versleuteling |
+| A21 | Vastgelegde uitgangspunten voor het ontwerpen van veilige systemen. | A.8.27 | ISB-P13 Veilige softwareontwikkeling |
+| A22 | Procedures voor het beheren van wijzigingen in systemen. | A.8.32 | ISB-P08 Wijzigingen in systemen en projecten |
 
 ## Goed om te weten
 
